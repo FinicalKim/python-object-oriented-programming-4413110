@@ -10,6 +10,7 @@
 # of "Ticker: Company -- $Price"
 
 class Stock:
+    def __init__(self, ticker, company, price) -> none
     pass
 
 # ~~~~~~~~~ TEST CODE ~~~~~~~~~
